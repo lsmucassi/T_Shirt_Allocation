@@ -14,10 +14,14 @@ For this project I will create my own dummy dataset with all the info from atten
 
 ### TASKS
 ##### 1: Generate/Construct dataset
-I used this site to generate dummy data, I could have written code to do so but there really is no need to re-invent the wheel
-- https://www.mockaroo.com/
+1.1 Generate dataset
+    I used this site to generate dummy data, I could have written code to do so but there really is no need to re-invent the wheel
+    - https://www.mockaroo.com/
+    - other sites that can be used to generate data for practice and fun sake
+1.2 Merge datasets
+    Because I did not have a premium account with Mockoroo so I had to cheat a bit, I generated 4 different datasets, now let's merge them to one data set. 
 
 ##### 2: Clean and Analyse data
 ##### 3: Sort data to solve the main problem (how to allocate t-shirts easier and faster)
-##### 4: present the data on how the t-shirts can be printed
+##### 4: present the data on how the t-shirts can be printed - visualization
 
