@@ -16,11 +16,11 @@ For this project I will create my own dummy dataset with all the info from atten
 #### 1: Generate/Construct dataset
 
 1.1 Generate dataset:
-    I used this site to generate dummy data, I could have written code to do so but there really is no need to re-invent the wheel
-        - https://www.mockaroo.com/
-        other sites that can be used to generate data for practice and fun sake:
-            - https://www.generatedata.com/
-            - https://rlanders.net/dataset-generator/
+I used this site to generate dummy data, I could have written code to do so but there really is no need to re-invent the wheel
+- https://www.mockaroo.com/
+Other sites that can be used to generate data for practice and fun sake:
+- https://www.generatedata.com/
+- https://rlanders.net/dataset-generator/
 
 1.2 Merge datasets:
     Because I did not have a premium account with Mockoroo so I had to cheat a bit, I generated 4 different datasets, now let's merge them to one data set. 
